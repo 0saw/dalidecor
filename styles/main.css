@@ -442,11 +442,11 @@ html {
   text-decoration: underline;
 }
 
-.l-footer__col a:hover.footer__link {
+.l-footer__col a:hover.l-footer__link {
   text-decoration: none;
 }
 
-.l-footer__col a:hover.footer__link span {
+.l-footer__col a:hover.l-footer__link span {
   text-decoration: underline;
 }
 
